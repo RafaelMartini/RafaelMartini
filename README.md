@@ -26,3 +26,4 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reagir" width="40" height="40" style="max-width: 100%;">
