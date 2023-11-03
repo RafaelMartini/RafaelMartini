@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Atualmente estou atuando como Freelancer **Aberto a oportunidades**
+- 🔭 Atualmente estou atuando como Freelancer **Aberto a oportunidades TAlvezs**
 
 - 🌱 Atualmente estou me aprofundando em  **React Js | React Native**
 
